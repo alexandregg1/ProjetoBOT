@@ -6,6 +6,9 @@
 
 Este projeto consiste em um bot de atendimento automático para WhatsApp, desenvolvido utilizando Node.js.
 
+## 📚 **Contexto do Projeto:**  
+> Este bot foi desenvolvido como parte de estudos pessoais em Node.js, automação e integração com APIs do WhatsApp. Não está em produção nem afiliado a nenhuma empresa real.
+
 ## 🚀 Funcionalidades
 
 - Conexão via QR Code para autenticação no WhatsApp
